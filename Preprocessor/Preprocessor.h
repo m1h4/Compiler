@@ -1,0 +1,6 @@
+#pragma once
+
+#define DIRECTIVE_INCLUDE 1
+#define DIRECTIVE_DEFINE 2
+#define DIRECTIVE_UNDEFINE 3
+
